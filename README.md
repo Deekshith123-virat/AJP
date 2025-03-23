@@ -1,2 +1,2 @@
 # AJP
-Projects Of advanced java programming
+Projects of advanced java programming
